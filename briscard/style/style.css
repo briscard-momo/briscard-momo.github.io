@@ -4,6 +4,6 @@
 
 .head-container, .body-container, .footer-container
 {
-  max-width = 720px;
-  margin = 0 auto;
+  max-width: 720px;
+  margin: 0 auto;
 }
