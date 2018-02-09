@@ -2,7 +2,7 @@
 |   Style sheet   | 
 \*---------------*/
 
-.head-container, .body-container, .footer-container
+.header-container, .body-container, .footer-container
 {
   max-width: 720px;
   margin: 0 auto;
