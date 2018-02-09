@@ -13,6 +13,7 @@ body
 {
   background-color: firebrick;
   padding: 20px 50px;
+  padding-top: 0px;
   border: solid;
   border-color: white;
   border-radius: 15px;
