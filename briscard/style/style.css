@@ -2,7 +2,7 @@
 |   Style sheet   | 
 \*---------------*/
 
-.header-container, .body-container, .footer-container
+html
 {
   max-width:720px;
   margin:0 auto;
@@ -11,4 +11,9 @@
 body
 {
   background-color:lightblue;
+}
+
+p
+{
+  text-align: justify;
 }
