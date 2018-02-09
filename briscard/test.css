@@ -1,4 +1,5 @@
-.header-container, .body-container, .footer-container
+/* .header-container, .body-container, .footer-container */
+html
 {
   max-width: 480px;
   margin: 0 auto;
