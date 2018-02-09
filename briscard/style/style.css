@@ -4,16 +4,18 @@
 
 html
 {
-  max-width:720px;
-  margin:0 auto;
+  max-width: 1080px;
+  margin: 0 auto;
+  background-color: white;
 }
 
 body
 {
-  background-color:lightblue;
+  background-color: firebrick;
 }
 
 p
 {
   text-align: justify;
+  color: white;
 }
