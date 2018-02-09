@@ -1,0 +1,10 @@
+.header-container, .body-container, .footer-container
+{
+  max-width:702px;
+  margin:0 auto;
+}
+
+body
+{
+  background-color:lightblue;
+}
