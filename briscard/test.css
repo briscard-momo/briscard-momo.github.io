@@ -1,6 +1,6 @@
 .header-container, .body-container, .footer-container
 {
-  max-width: 720px;
+  max-width: 480px;
   margin: 0 auto;
 }
 
