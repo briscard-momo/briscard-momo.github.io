@@ -12,7 +12,7 @@ html
 body
 {
   background-color: lemonchiffon;
-  background-color: blue;
+      background-color: rgb(255,155,0);
   padding: 10px 10px;
   border-radius: 20px;
 }
@@ -28,14 +28,14 @@ header, footer, .content
 .content
 {
   background-color: cornsilk;
-  background-color: coral;
+      background-color: rgb(255,125,0);
   padding: 20px 50px;
 }
 
 header
 {
   background-color: moccasin;
-  background-color: chartreuse;
+      background-color: rgb(255,95,0);
   margin-bottom: 10px;
 }
 
@@ -51,6 +51,7 @@ header ul li
 {
   display: inline-block;
   background-color: cyan;
+      background-color: rgb(255,185,0);
   border-style: solid;
   border-color: white;
   border-radius: 20px;
@@ -68,12 +69,13 @@ header ul li a
 #current
 {
   background-color: aqua;
+      background-color: rgb(255,205,0);
 }
 
 footer
 {
   background-color: floralwhite;
-  background-color: yellow;
+      background-color: rgb(255,185,0);
   margin-top: 10px;
 }
 
