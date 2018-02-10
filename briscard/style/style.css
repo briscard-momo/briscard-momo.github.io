@@ -44,6 +44,7 @@ header ul
   list-style-type: none;
   padding: 0;
   width: 100%;
+  white-space: nowrap;
 }
 
 header ul li
