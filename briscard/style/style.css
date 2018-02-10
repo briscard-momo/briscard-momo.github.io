@@ -53,7 +53,7 @@ h1
   padding-top: 20px;
 }
 
-footer.h1, header.h1
+footer h1, header h1
 {
   padding-top: -20px;
 }
