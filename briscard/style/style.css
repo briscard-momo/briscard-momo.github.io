@@ -42,10 +42,15 @@ header
 header ul
 {
   border-radius: 20px;
+  list-style-type: none;
+}
+
+header ul li
+{
+  display: inline-block;
   background-color: cyan;
   border-style: solid;
   border-color: white;
-  list-style-type: none;
 }
 
 footer
