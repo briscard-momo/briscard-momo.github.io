@@ -12,8 +12,8 @@ html
 body
 {
   background-color: cornsilk;
-  padding: 0px 0px;
-  border-radius: 15px;
+  padding: 10px 10px;
+  border-radius: 0px;
 }
 
 header, footer, .content
@@ -26,18 +26,20 @@ header, footer, .content
 
 .content
 {
-  background-color: moccasin;
+  background-color: oldlace;
   padding: 20px 50px;
 }
 
 header
 {
-  background-color: wheat;
+  background-color: moccasin;
+  margin-bottom: 10px;
 }
 
 footer
 {
   background-color: floralwhite;
+  margin-top: 10px;
 }
 
 h1
