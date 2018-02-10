@@ -28,14 +28,14 @@ header, footer, .content
 .content
 {
   background-color: cornsilk;
-  background-color: red;
+  background-color: magenta;
   padding: 20px 50px;
 }
 
 header
 {
   background-color: moccasin;
-  background-color: green;
+  background-color: chartreuse;
   margin-bottom: 10px;
 }
 
