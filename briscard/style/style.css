@@ -33,15 +33,15 @@ footer
   padding: 10px;
 }
 
-footer.h1, header.h1
-{
-  padding: 10px;
-}
-
 h1
 {
   color: firebrick;
   padding-top: 20px;
+}
+
+footer.h1, header.h1
+{
+  padding: 10px;
 }
 
 p
