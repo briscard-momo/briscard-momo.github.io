@@ -12,6 +12,7 @@ html
 body
 {
   background-color: lemonchiffon;
+  background-color: blue;
   padding: 10px 10px;
   border-radius: 20px;
 }
@@ -27,24 +28,28 @@ header, footer, .content
 .content
 {
   background-color: cornsilk;
+  background-color: red;
   padding: 20px 50px;
 }
 
 header
 {
   background-color: moccasin;
+  background-color: green;
   margin-bottom: 10px;
 }
 
 footer
 {
   background-color: floralwhite;
+  background-color: yellow;
   margin-top: 10px;
 }
 
 h1
 {
   color: firebrick;
+  color: black;
   padding-top: 20px;
 }
 
