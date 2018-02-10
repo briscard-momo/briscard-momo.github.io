@@ -19,6 +19,16 @@ body
   border-radius: 15px;
 }
 
+header
+{
+  background-color: burlywood;
+}
+
+footer
+{
+  background-color: ghostwhite;
+}
+
 h1
 {
   color: firebrick;
