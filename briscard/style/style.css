@@ -53,9 +53,9 @@ h1
   padding-top: 0px;
 }
 
-footer h1, header h1
+.content h1
 {
-  /* padding-top: -20px; */
+  padding-top: 20px;
 }
 
 p
