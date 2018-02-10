@@ -12,23 +12,26 @@ html
 body
 {
   background-color: cornsilk;
-  padding: 20px 50px;
-  padding-top: 0px;
-  border: solid;
-  border-color: white;
+  padding: 0px 0px;
   border-radius: 15px;
+}
+
+.content
+{
+  background-color: moccasin;
+  padding: 20px 50px;
 }
 
 header
 {
-  background-color: burlywood;
+  background-color: bisque;
   border-radius: 10px;
   padding: 10px;
 }
 
 footer
 {
-  background-color: ghostwhite;
+  background-color: floralwhite;
   border-radius: 10px;
   padding: 10px;
 }
