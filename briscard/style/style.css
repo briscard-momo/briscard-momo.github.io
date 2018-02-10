@@ -39,6 +39,15 @@ header
   margin-bottom: 10px;
 }
 
+header ul
+{
+  border-radius: 20px;
+  background-color: cyan;
+  border-style: solid;
+  border-color: white;
+  list-style-type: none;
+}
+
 footer
 {
   background-color: floralwhite;
