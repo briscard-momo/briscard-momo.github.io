@@ -42,6 +42,7 @@ header
 header ul
 {
   list-style-type: none;
+  padding: 0;
 }
 
 header ul li
@@ -52,6 +53,7 @@ header ul li
   border-color: white;
   border-radius: 20px;
   padding: 10px;
+  width: 15%;
 }
 
 footer
