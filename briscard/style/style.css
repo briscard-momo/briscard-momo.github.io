@@ -12,7 +12,7 @@ html
 body
 {
   background-color: lemonchiffon;
-      background-color: rgb(255,155,155);
+      background-color: rgb(255,155,100);
   padding: 10px 10px;
   border-radius: 20px;
 }
@@ -69,7 +69,7 @@ header ul li a
 #current
 {
   background-color: aqua;
-      background-color: rgb(255,205,155);
+      background-color: rgb(255,255,0);
 }
 
 footer
