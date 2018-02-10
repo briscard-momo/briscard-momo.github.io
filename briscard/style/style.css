@@ -41,7 +41,6 @@ header
 
 header ul
 {
-  border-radius: 20px;
   list-style-type: none;
 }
 
@@ -51,6 +50,8 @@ header ul li
   background-color: cyan;
   border-style: solid;
   border-color: white;
+  border-radius: 20px;
+  padding: 10px;
 }
 
 footer
