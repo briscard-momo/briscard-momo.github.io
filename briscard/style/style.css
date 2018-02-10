@@ -47,7 +47,8 @@ header ul
   /*margin: 0 auto;
   width: 100%;*/
   border-style: solid;
-  text-align-last: right;
+  -moz-text-align-last: center;
+  text-align-last: center;
 }
 
 header ul li
