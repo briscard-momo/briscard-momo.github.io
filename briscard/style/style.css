@@ -44,7 +44,6 @@ header ul
   list-style-type: none;
   padding: 0;
   width: 100%;
-  white-space: nowrap;
 }
 
 header ul li
@@ -54,8 +53,7 @@ header ul li
   border-style: solid;
   border-color: white;
   border-radius: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 10px;
   text-align: center;
 }
 
