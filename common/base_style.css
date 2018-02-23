@@ -1,1 +1,99 @@
+/*---------------*\
+|   Style sheet   | 
+\*---------------*/
 
+html
+{
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: cornsilk;
+  background-color: #fdf0d5;
+}
+
+body
+{
+  background-color: lemonchiffon;
+  background-color: #3a3335;
+  padding: 10px 10px;
+  border-radius: 20px;
+}
+
+header, footer, .content
+{
+  border-radius: 20px;
+  padding: 10px 50px;
+  border-style: solid;
+  border-color: white;
+}
+
+.content
+{
+  background-color: cornsilk;
+  background-color: #c6d8d3;
+  padding: 20px 50px;
+}
+
+header
+{
+  background-color: moccasin;
+  background-color: #f3bbcd;
+  margin-bottom: 10px;
+}
+
+header ul
+{
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+}
+
+header ul li
+{
+  display: inline-block;
+  background-color: cyan;
+      background-color: rgb(255,235,0);
+  border-style: solid;
+  border-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+  width: 12.5%;
+  margin: 0 1%;
+}
+
+header ul li a
+{
+  text-decoration: none;
+}
+
+#current
+{
+  background-color: aqua;
+      background-color: rgb(255,255,0);
+}
+
+footer
+{
+  background-color: floralwhite;
+  background-color: #f48783;
+  margin-top: 10px;
+}
+
+h1
+{
+  color: firebrick;
+  color: black;
+  padding-top: 0px;
+}
+
+.content h1
+{
+  padding-top: 20px;
+}
+
+p
+{
+  text-align: justify;
+  color: black;
+}
