@@ -33,6 +33,15 @@ header, footer, .content
   padding: 20px 50px;
 }
 
+.subcontent
+{
+  background-color: cornsilk;
+  background-color: #d7e3e0;
+  padding: 20px 50px;
+  border-style: solid;
+  border-color: white;
+}
+
 header
 {
   background-color: moccasin;
