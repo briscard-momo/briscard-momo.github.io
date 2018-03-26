@@ -52,6 +52,7 @@ header ul
   padding: 0;
   text-align: center;
   width: 100%;
+  color: black;
 }
 
 header ul li
@@ -97,6 +98,7 @@ footer ul
   padding: 0;
   text-align: center;
   width: 100%;
+  color: black;
 }
 
 footer ul li
